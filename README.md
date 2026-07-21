@@ -1,6 +1,6 @@
 
 
---->DAY 1 - Introduction to SQL
+---> Introduction to SQL
    What I Learned
       - SQL stands for Structured Query Language.
       - SQL is used to communicate with relational databases.
@@ -24,7 +24,7 @@
    - Columns represent attributes.
    - SQL is supported by MySQL, Oracle, SQL Server, PostgreSQL, etc.
 
----> DAY 2 Creating Databases & Tables
+---> Creating Databases & Tables
 
     Objective
         Learned how to create databases, create tables, use SQL data types, and apply constraints to maintain data integrity.
@@ -77,7 +77,7 @@
                                              City VARCHAR(30) DEFAULT 'Guntur'
                                           );
 
---->DAY 3 :  Inserting Data into Tables
+--->  Inserting Data into Tables
 
         Objective : Learned how to insert records into SQL tables using the `INSERT INTO` statement.
 
@@ -101,9 +101,9 @@
 
              sql : INSERT INTO Students (StudentID, Name, Age, Department, City)
 
---->DAY 4 : Retrieving Data with SELECT
+---> Retrieving Data with SELECT
     
-    bjective : Learned how to retrieve data from tables using the `SELECT` statement and apply different clauses to filter and organize results.
+    objective : Learned how to retrieve data from tables using the `SELECT` statement and apply different clauses to filter and organize results.
   
    Topics Covered:
            1. SELECT Statement : Used to retrieve data from one or more columns in a table
