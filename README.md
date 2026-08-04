@@ -125,8 +125,11 @@
                   sql : SELECT * FROM Students ORDER BY Age DESC;
           5. LIMIT 
 
-#**JOINS**:
-       A Join is an SQL operation used to retrieve data from two or more tables based on a related column between them. Joins help combine information stored in separate tables without duplicating data.
+**JOINS**:
+      
+
+
+ A Join is an SQL operation used to retrieve data from two or more tables based on a related column between them. Joins help combine information stored in separate tables without duplicating data.
 
 For example:
 
@@ -178,9 +181,13 @@ Example:
 Employee table contains both employee IDs and manager IDs.
 A self join can display each employee along with their manager's name.
 
-#**SUB QUERIES**:
+**SUB QUERIES**:
 
-        A Subquery is a query written inside another SQL query. The inner query executes first, and its result is used by the outer query.
+        
+
+
+
+A Subquery is a query written inside another SQL query. The inner query executes first, and its result is used by the outer query.
 
 Subqueries make SQL statements simpler and help solve complex problems.
 
@@ -246,8 +253,12 @@ It is useful for finding records that have no matching records in another table.
 Example:
 Departments with no employees.
 
-#**FUNCTIONS**:
-      A Function is a built-in Oracle program that accepts input, processes it, and returns a result.
+**FUNCTIONS**:
+      
+
+
+
+A Function is a built-in Oracle program that accepts input, processes it, and returns a result.
 
 Functions help perform calculations, manipulate text, format dates, and handle NULL values without writing complex logic.
 
