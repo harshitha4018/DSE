@@ -179,7 +179,8 @@ Employee table contains both employee IDs and manager IDs.
 A self join can display each employee along with their manager's name.
 
 #**SUB QUERIES**:
-       A Subquery is a query written inside another SQL query. The inner query executes first, and its result is used by the outer query.
+
+        A Subquery is a query written inside another SQL query. The inner query executes first, and its result is used by the outer query.
 
 Subqueries make SQL statements simpler and help solve complex problems.
 
@@ -325,3 +326,4 @@ Find highest salary
 Find lowest salary
 
 These functions are often used with GROUP BY.
+      
